@@ -1,0 +1,50 @@
+<h1>Kübra ÇELEBİ</h1>
+<h3>Hakkımda</h3>
+<p>Merhaba ben Kübra ÇELEBİ. Kırşehirde yaşıyorum.Selçuk Üniversitesi-Bilgisyar Mühendisliği mezunuyum</p>
+
+<h4>İlgilendiğim Alanlar</h4>
+<p>Web,Mobil,Siber Güvenlik</p>
+
+<!-- EMMET
+
+    etiket isimlerini direkt verebiliyoruz
+    + kardeş öğe
+    > içinde öğe
+    ^ yukarı çık ve öğe oluştur
+    * çarp
+    lorem (uzun yazı)
+    lorem1 1 kelimelik yazı
+    . class
+    # id
+
+    ul>.deneme dersek ul içinde li oluşturup bu li nin classını deneme yapar
+-->
+
+<!-- LİNKLERLE ÇALIŞMA
+
+    -başka bir web sitesine git (target="_blank")
+    -başka bir sayfaya git (href="")
+    -aynı sayfa içinde bir yere git (href="#id")
+    -mail atma (href="mailto:mailadresi")
+    -telefon açma (href="tel:telefonno")
+-->
+
+<!--
+    olduğu yerin tüm satırını kaplıyorsa blok element,
+    sadece olduğu kısmı kaplıyorsa inline element
+
+    ** koyu yazı elde etmek için <strong> elementini kullanıyoruz bu da inline element
+    ** italik yapmak içinde <em> veya <i> kullanılır o da inline element
+    ** a etiketi inline element
+-->
+
+<!-- HTML5 Semantik Etiketler 
+     <header>
+     <nav>
+
+<section> 
+            <aside>
+<article>
+    
+    <footer>
+-->
